@@ -10,5 +10,5 @@ get '/test' do
 end
 
 get '/test_jpn' do
-    "<h2>こんにちは!イルカです。</h2><p>追加したテストページです</p>"
+    "<h2>こんにちは!Cortanaです。</h2><p>追加したテストページです</p>"
 end
